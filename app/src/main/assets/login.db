@@ -1,0 +1,8 @@
+
+CREATE TABLE "user" (
+"username"  VARCHAR NOT NULL,
+"password"  VARCHAR,
+PRIMARY KEY ("username")
+);
+
+INSERT INTO "user" VALUES ('user', 'useruser');

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "47658253549",
+    "firebase_url": "https://student-checker-70105.firebaseio.com",
+    "project_id": "student-checker-70105",
+    "storage_bucket": "student-checker-70105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47658253549:android:31d161b3d70bc848b160e4",
+        "android_client_info": {
+          "package_name": "id.ac.umn.studentchecker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47658253549-m14oqjqtmj2micjnfvuvhae85l4e98ur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.ac.umn.studentchecker",
+            "certificate_hash": "4baaac50aac2c4df1ba6818344e409fd8b20a55e"
+          }
+        },
+        {
+          "client_id": "47658253549-vutgdjtbkvveno4umm02kg1qmv1ji696.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoqNCQARTit1VSncfEls3BMmDUUJaKV6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47658253549-vutgdjtbkvveno4umm02kg1qmv1ji696.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
